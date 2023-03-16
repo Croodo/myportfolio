@@ -115,8 +115,6 @@ function open() {
               <li class="bg-green-100 px-4 py-1 rounded-sm">Nuxt3</li>
               <li class="bg-sky-50 px-4 py-1 rounded-sm">TailwindCSS</li>
               <li class="bg-green-50 px-4 py-1 rounded-sm">MongoDB</li>
-              <li class="bg-gray-50 px-4 py-1 rounded-sm">ExpressJS</li>
-              <li class="bg-green-50 px-4 py-1 rounded-sm">NodeJS</li>
             </ul>
           </div>
         </div>

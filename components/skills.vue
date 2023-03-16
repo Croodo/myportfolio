@@ -47,7 +47,7 @@ const skills = [
     experiance: "4 Years",
     icon: "logos:tailwindcss-icon",
     icColor: "text-teal-400",
-    info: `Having long time experiences in CSS3 so tailwindcss made it easy to design my pages faster. Have Complete confident using Tailwindcss`,
+    info: `Having long time experiences in CSS3 so tailwindcss made it easy to design my pages faster. Have Complete confident using TailwindCSS.`,
   },
   {
     id: "MongoDB",
@@ -72,10 +72,10 @@ const skills = [
       </div>
       <div class="overflow-hidden">
         <div
-          class="skillsGrid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 -m-0.5 text-slate-800"
+          class="bg-gradient-to-r from-green-300 via-purple-300 to-blue-300 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 text-slate-800 gap-[1px]"
         >
           <div
-            class="border-[0.5px] border-slate-300"
+            class="bg-white sm:px-5 py-5"
             v-for="(data, index) in skills"
             :key="index"
           >
