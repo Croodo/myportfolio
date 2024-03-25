@@ -25,8 +25,11 @@ import Footer from "~~/components/Footer.vue";
     <!-- MENU END -->
     <div class="bg-gray-900 py-7 lg:py-0 lg:sticky top-0 z-[1]">
       <div
-        class="absolute inset-0 bg-[url(/img/grid.svg)] bg-top [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"
+        class="absolute z-10 inset-0 bg-[url(/img/grid.svg)] bg-top [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"
       ></div>
+      <span
+        className="absolute z-30 top-7 sm:left-28 left-0 pointer-events-none opacity-20 dark:opacity-20 dark:sm:opacity-25  bg-gradient-to-r from-cyan-300 via-cyan-500 rounded-full to-cyan-200 h-[80vw] w-[80vw] blur-[10vw]  sm:h-[46vh] sm:w-[46vh] sm:blur-[20vh]"
+      ></span>
       <div
         class="px-6 sm:px-12 max-w-7xl m-auto lg:py-20 flex space-x-10 justify-between text-white relative"
       >
