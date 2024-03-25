@@ -29,11 +29,11 @@ const skills = [
     info: `Started using Node when i had to switch my PHP website to Javascript framework like Vue. From there started using Node for Frontend as well backend programs.`,
   },
   {
-    id: "VUE",
+    id: "NextJS",
     experiance: "4 Years",
-    icon: "logos:vue",
+    icon: "logos:nextjs-icon",
     icColor: "text-green-400",
-    info: `From last 4 years continuesly building project using Nuxt so it's obiouse that i had to understand vuejs core concept.`,
+    info: `Over the past four years, I have been consistently building projects using Next.js because of its compatibility with Vercel, which helps me manage page speed for better SEO.`,
   },
   {
     id: "NuxtJS",
@@ -47,14 +47,14 @@ const skills = [
     experiance: "4 Years",
     icon: "logos:tailwindcss-icon",
     icColor: "text-teal-400",
-    info: `Having long time experiences in CSS3 so tailwindcss made it easy to design my pages faster. Have Complete confident using TailwindCSS.`,
+    info: `Having long time experiences in CSS3 so Tailwindcss made it easy to design my pages faster. Have Complete confident using TailwindCSS.`,
   },
   {
     id: "MongoDB",
     experiance: "3 Years",
     icon: "vscode-icons:file-type-mongo",
     icColor: "text-green-700",
-    info: `Using mongodb for last 3 years with nodejs to create my Rest APIs.`,
+    info: `Using mongodb for last 3 years with nodejs to manage data and create my Rest APIs.`,
   },
 ];
 </script>

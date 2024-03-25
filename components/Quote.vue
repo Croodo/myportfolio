@@ -3,7 +3,7 @@
     <div
       class="max-w-6xl m-auto bg-[#f3fbf5] rounded-3xl px-20 py-10 text-lg shadow-inner"
     >
-      I'm Bhaskar Barma, a 28-year-old boy from West Bengal, India. I'm
+      I'm Bhaskar Barma, a 29-year-old boy from West Bengal, India. I'm
       developing websites since 2010 as an individual, to run my own startup
       concepts. Previously successfully ran a third-party Android app store and
       some other small profitable websites. Know the importance of web UI/UX and

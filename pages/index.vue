@@ -43,8 +43,7 @@ import Footer from "~~/components/Footer.vue";
           >
             <span class="text-cyan-300">UX/UI</span>
             <span class="text-purple-300">Code Writer</span>
-            <span class="text-pink-300">&</span>
-            <span class="text-green-300">Vue</span>
+            <span class="text-green-300">React/Vue</span>
             <span class="text-blue-300">Developer</span>
           </div>
           <p class="text-base lg:text-3xl font-normal info">
@@ -52,6 +51,13 @@ import Footer from "~~/components/Footer.vue";
             learning new technologies. Top priority is responsive front-end
             development.
           </p>
+          <div class="my-10">
+            <a
+              href="mailto:barma7602@gmail.com"
+              class="ring-2 bg-slate-800 ring-white px-10 py-2 rounded-3xl text-2xl text-white font-semibold hover:text-3xl transition-all"
+              >Hire me!</a
+            >
+          </div>
         </div>
         <!-- IMAGE -->
         <!-- <div
@@ -72,8 +78,8 @@ import Footer from "~~/components/Footer.vue";
         <!-- IMG END -->
       </div>
     </div>
-    <skills></skills>
-    <works></works>
+    <Skills />
+    <Works />
     <Quote />
     <Footer />
   </div>
