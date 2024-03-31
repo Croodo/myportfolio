@@ -15,13 +15,13 @@ import Footer from "~~/components/Footer.vue";
 <template>
   <div class="relative">
     <!-- HEADER MENU -->
-    <div
+    <!-- <div
       class="flex py-5 w-[90%] m-auto space-x-5 underline decoration-2 underline-offset-4"
     >
       <a href="#skills" class="">Skills</a>
       <a href="#portfolio" class="">Portfolio</a>
     </div>
-    <div></div>
+    <div></div> -->
     <!-- MENU END -->
     <div class="bg-gray-900 py-7 lg:py-0 lg:sticky top-0 z-[1]">
       <div
@@ -47,17 +47,17 @@ import Footer from "~~/components/Footer.vue";
             <span class="text-blue-300">Developer</span>
           </div>
           <p class="text-base lg:text-3xl font-normal info">
-            Self Learned Web Developer, Started web development in 2010. Still
-            learning new technologies. Top priority is responsive front-end
-            development.
+            Experienced Full Stack developer with extensive experience in
+            developing web apps using Next.js/Nuxt.js with Tailwind CSS, and
+            creating & consuming REST APIs using MongoDB as the database.
           </p>
-          <div class="my-10">
+          <!-- <div class="my-10">
             <a
               href="mailto:barma7602@gmail.com"
               class="ring-2 bg-slate-800 ring-white px-10 py-2 rounded-3xl text-2xl text-white font-semibold hover:text-3xl transition-all"
               >Hire me!</a
             >
-          </div>
+          </div> -->
         </div>
         <!-- IMAGE -->
         <!-- <div

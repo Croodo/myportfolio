@@ -33,7 +33,7 @@ function open() {
             </p>
           </div>
           <div class="py-2 my-3">
-            <span class="font-bold text-3xl">Tools Used</span>
+            <span class="font-bold text-3xl">Library Used</span>
             <ul class="flex flex-wrap gap-x-7 gap-y-4 py-5 font-medium">
               <li class="bg-green-100 px-4 py-1 rounded-sm">Next 13</li>
               <li class="bg-sky-50 px-4 py-1 rounded-sm">TailwindCSS</li>
@@ -46,7 +46,7 @@ function open() {
           <div class="w-full h-full box-content relative">
             <iframe
               src="https://instavids.app"
-              class="ring-2 ring-slate-700 bg-white w-full lg:w-[1130px] h-[600px] rounded-md lg:rounded-2xl shadow-2xl lg:h-[770px] lg:scale-[50%] lg:origin-top-left"
+              class="ring-2 ring-slate-700 bg-white w-full lg:w-[1130px] h-[600px] rounded-md lg:rounded-2xl lg:h-[770px] lg:scale-[50%] lg:origin-top-left"
             ></iframe>
           </div>
         </div>
@@ -72,7 +72,7 @@ function open() {
             </p>
           </div>
           <div class="py-2 my-3">
-            <span class="font-bold text-3xl">Tools Used</span>
+            <span class="font-bold text-3xl">Library Used</span>
             <ul class="flex flex-wrap gap-x-7 gap-y-4 py-5 font-medium">
               <li class="bg-green-100 px-4 py-1 rounded-sm">NextJs</li>
               <li class="bg-sky-50 px-4 py-1 rounded-sm">TailwindCSS</li>
@@ -87,7 +87,7 @@ function open() {
           <div class="w-full h-full box-content relative">
             <iframe
               src="https://appdodo.store"
-              class="ring-2 ring-slate-700 bg-white w-full lg:w-[1130px] h-[600px] rounded-md lg:rounded-2xl shadow-2xl lg:h-[770px] lg:scale-[50%] lg:origin-top-left"
+              class="ring-2 ring-slate-700 bg-white w-full lg:w-[1130px] h-[600px] rounded-md lg:rounded-2xl lg:h-[770px] lg:scale-[50%] lg:origin-top-left"
             ></iframe>
           </div>
         </div>
